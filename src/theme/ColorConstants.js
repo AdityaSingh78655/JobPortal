@@ -1,0 +1,12 @@
+export const ColorConstants = {
+  VIOLET: "#1A144F",
+  LIGHT_GREY: "#DDDDDD",
+  DARK_GREY: "#808080",
+  WHITE: "#FFFFFF",
+  LIGHT_BLUE: "#5B7AE6",
+  BLACK: "#000000",
+  ORANGE: "#F7664F",
+  BACKGROUND_COLOR: "#E7E7E7",
+  RED: "#ff0000",
+  GREEN: "#00FF00",
+};
